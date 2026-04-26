@@ -178,7 +178,7 @@ All outputs were:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates an efficient and practical implementation of a Red-Black Tree with proper balancing, testing, and performance evaluation.
 
